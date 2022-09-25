@@ -1,0 +1,111 @@
+/* Write your CSS here! */
+body{
+    margin: 8px;
+    color:rgb(102, 0, 51);
+    background-color: rgb(255, 153, 153);
+    display: block;
+    border:1px
+  }
+  
+  div{
+    font-size:24px;
+  }
+  
+  .emphasized{
+    border:1px;
+    margin : 8px;
+      color:rgb(55, 153, 153);
+      background-color: rgb(102, 0, 51);
+      margin-left: 30px;
+      padding: 20px;
+  
+    }
+  
+  h1{
+    text-align: center;
+      margin: 70px;
+      width: 1300px;
+      border: 1px solid #4CAF50;
+    color : rgb(0, 51, 0);
+    background-color : rgb(102, 255, 153)
+  }
+  
+  h3{
+      text-align: left;
+    color : rgb(0, 51, 0);
+    
+  }
+  #mainHeading{
+    text-align: center;
+    margin: 70px;
+    width: 1200px;
+    border: 0px solid #4CAF50;
+    color: rgb(102, 0, 51);
+    background-color: rgb(255, 153, 153);
+    font-family: 'Times New Roman';
+  font-size: 200%;
+    
+  }
+  #miscpageHeading{
+  background-color: rgb(255, 153, 153);
+  }
+    #movieAlert{
+      color:rgb(255, 153, 153);
+      background-color:rgb(102, 0, 51);
+      width: 1300px;
+    
+    }
+  
+  p{
+      text-align: left;
+      margin-left: 10px;
+      width: 1230px;
+      border: 0px solid #4CAF50;
+      color:rgb(102, 0, 51);
+      background-color: rgb(255, 153, 153);
+      font-family: 'Times New Roman';
+    font-size: 24px;
+      
+  }
+p1{
+      text-align: left;
+      margin-left: 10px;
+      width: 1230px;
+      border: 0px solid #4CAF50;
+      color:rgb(0,102,0);
+      background-color:(153, 255, 102) ;
+      font-family: 'Times New Roman';
+    font-size: 18px;
+      
+  }
+  
+p2{
+      text-align: left;
+      margin-left: 10px;
+      width: 1230px;
+      border: 0px solid #4CAF50;
+      color:rgb(102, 0, 51);
+      background-color:(153, 255, 102) ;
+      font-family: 'Times New Roman';
+    font-size: 18px;
+      
+  }
+  #testP{
+    background-color: rgb(255, 255, 102);
+  }
+  .funParagraph{
+  
+     color: green;
+  }
+  .timeDrBrantly{
+    color:rgb(255, 153, 153);
+    background-color:rgb(102, 0, 51);
+    font-size:24px;
+  
+  }
+  .tab1 {
+    tab-size: 3;
+  }
+  
+  
+  
